@@ -21,3 +21,5 @@ You can try out the calculator live [here](https://jija-sarak.github.io/Web-Calc
 
 ```bash
 git clone https://github.com/Jija-sarak/Web-Calculator.git
+
+- Open index.html in your web browser.

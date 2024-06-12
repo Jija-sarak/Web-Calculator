@@ -7,7 +7,6 @@ This is a simple web-based calculator application built using HTML, CSS, and Jav
 - Perform basic arithmetic operations: addition, subtraction, multiplication, and division.
 - Responsive design for optimal viewing on desktop and mobile devices.
 - Clear button to reset the current calculation.
-- Keyboard support for convenient input.
 
 ## Demo
 
@@ -24,3 +23,8 @@ git clone https://github.com/Jija-sarak/Web-Calculator.git
 
 ```
 - Open index.html in your web browser.
+
+
+### Usage
+- Click the buttons to input numbers and perform operations.
+- Enjoy calculating!

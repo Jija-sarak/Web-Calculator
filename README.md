@@ -11,7 +11,7 @@ This is a simple web-based calculator application built using HTML, CSS, and Jav
 
 ## Demo
 
-You can try out the calculator live [here](#insert-your-live-demo-url).
+You can try out the calculator live [here]([#insert-your-live-demo-url](https://jija-sarak.github.io/Web-Calculator/)).
 
 ## Installation
 
